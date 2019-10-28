@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/ghostedMonster/Decide-Giratina-Censo.svg?branch=master)](https://travis-ci.com/ghostedMonster/Decide-Giratina-Censo)
-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ad7ed5909f624d4795759b1d09e70e6b)](https://www.codacy.com/manual/ghostedMonster/Decide-Giratina-Censo?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ghostedMonster/Decide-Giratina-Censo&amp;utm_campaign=Badge_Grade)
 
 Plataforma voto electrónico educativa
 =====================================

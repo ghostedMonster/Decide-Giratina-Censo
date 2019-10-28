@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.com/wadobo/decide.svg?branch=master)](https://travis-ci.com/wadobo/decide) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/94a85eaa0e974c71af6899ea3b0d27e0)](https://www.codacy.com/app/Wadobo/decide?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=wadobo/decide&amp;utm_campaign=Badge_Grade) [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/94a85eaa0e974c71af6899ea3b0d27e0)](https://www.codacy.com/app/Wadobo/decide?utm_source=github.com&utm_medium=referral&utm_content=wadobo/decide&utm_campaign=Badge_Coverage)
+[![Build Status](https://travis-ci.com/ghostedMonster/Decide-Giratina-Censo.svg?branch=master)](https://travis-ci.com/ghostedMonster/Decide-Giratina-Censo)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ad7ed5909f624d4795759b1d09e70e6b)](https://www.codacy.com/manual/ghostedMonster/Decide-Giratina-Censo?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ghostedMonster/Decide-Giratina-Censo&amp;utm_campaign=Badge_Grade)
 
 Plataforma voto electrónico educativa
 =====================================
